@@ -27,19 +27,24 @@ User Management
 Testimonial Management
 Website Content Management
 Vehicle Image Management
+
 🛠️ Technology Stack
+
 Frontend
 HTML5
 CSS3
 Bootstrap
 JavaScript
 jQuery
+
 Backend
 PHP
+
 Database
 MySQL
 Server
 Apache (XAMPP/WAMP/LAMP)
+
 📂 Project Structure
 carrentalnew/
 │
