@@ -116,6 +116,3 @@ $dbname = "carrental";
 * 🔍 **Advanced Filtering:** Better filtering capabilities (price range, fuel type, transmission).
 * 📱 **Mobile App/API:** REST API support for extending into mobile applications.
 
-```
-
-```
