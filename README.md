@@ -1,15 +1,8 @@
-Here is a corrected and much cleaner version of the `README.md` file for the **Car Rental Management System**.
 
-The formatting has been fixed (especially the broken project structure tree), spelling errors like *"Initial uplode"* or *"vehical"* have been corrected, and a clear, professional layout has been applied.
-
----
-
-```markdown
 # 🚗 Car Rental Management System
 
 A web-based Car Rental Management System developed using PHP and MySQL. The platform allows users to seamlessly browse vehicles, check real-time availability, make bookings, manage profiles, and submit testimonials. It also includes a comprehensive Admin Panel for backend administration.
 
----
 
 ## 📌 Features
 
